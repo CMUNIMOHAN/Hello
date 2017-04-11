@@ -5,5 +5,6 @@ public class HelloDemo {
 		System.out.println("Hello java");
 		System.out.println("Welcome to javaCampus");
 		System.out.println("MuniMohan");
+		System.out.println("Bangalore");
 	}
 }
