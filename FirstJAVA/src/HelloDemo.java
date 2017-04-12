@@ -7,5 +7,8 @@ public class HelloDemo {
 		System.out.println("MuniMohan");
 		System.out.println("Bangalore");
 		System.out.println("Hyderabad");
+		System.out.println("India");
+		System.out.println("hello");
+		System.err.println("ksfgksflkvm");
 	}
 }
